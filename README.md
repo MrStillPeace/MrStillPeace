@@ -1,14 +1,15 @@
 # Halo semua! 
-
-Perkenalkan nama saya **Ahmad Rifki Dwi Putra Singgih**.<br>
-
-Saya seorang **Pelajar** di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya bertanggung jawab pada Course Tempa Dicodinh [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
+ 
+Perkenalkan nama saya **Gilang Ramadhan**.<br>
+ 
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+ 
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+ 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan](https://www.linkedin.com/in/ahmad-rifki-dwi-putra-singgih-74b71a207)/)ku ya.
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+ 
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
